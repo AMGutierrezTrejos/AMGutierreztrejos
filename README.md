@@ -1,12 +1,14 @@
 
 
-<h1 align="center">Hi 👋, I'm Mauricio</h1>
-<h3 align="left">
-🎓Embarking on my professional journey in economics, my fascination with technology led me to delve into the captivating realm of Big Data and Python. What began as a quest to broaden my horizons quickly evolved into an enduring passion. Since then, I've been on a perpetual journey of learning, constantly embracing new technologies and tools, with a special focus on the ever-evolving world of web development.</h3>
-<h3 align="left">💻 Engaged in current projects, my focus lies prominently on both front-end and back-end development. Leveraging my skills, I actively contribute to projects using the latest and most popular languages such as JavaScript, React, Redux, React Native, HTML, CSS, PostgreSQL, and MongoDB.</h3>
-<h3 align="left">💼 Presently, I'm on the lookout for challenges and opportunities that fuel my daily growth. Eager to join a team that not only inspires but also propels me to surpass my limits, I'm ready to embrace the next phase of my professional evolution.</h3>
+<h1 align="center"> <img src="https://th.bing.com/th/id/OIG1.u0YfgP.p._ab5J48_n8j?pid=ImgGn" alt="hero" width="35%" /></h1>
 
-<h3 align="center">Full Stack Maverick: Transforming Ideas into Functional Realities</h3>
+<h1 align="center">📱 Full Stack Web Developer 💻</h1>
+🎓Embarking on my professional journey in economics, my fascination with technology led me to delve into the captivating realm of Big Data and Python. What began as a quest to broaden my horizons quickly evolved into an enduring passion. Since then, I've been on a perpetual journey of learning, constantly embracing new technologies and tools, with a special focus on the ever-evolving world of web development.</h4>
+<h4 align="left">💻 Engaged in current projects, my focus lies prominently on both front-end and back-end development. Leveraging my skills, I actively contribute to projects using the latest and most popular languages such as JavaScript, React, Redux, React Native, HTML, CSS, PostgreSQL, and MongoDB.</h4>
+<h4 align="left">💼 Presently, I'm on the lookout for challenges and opportunities that fuel my daily growth. Eager to join a team that not only inspires but also propels me to surpass my limits, I'm ready to embrace the next phase of my professional evolution.</h4>
+
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFuNW9meGs5bjdubTFleWF3d2Zwc3dlYmZ3MmgxdXpxc3Bsem1wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="hero" width="25%" /></p>
+<h2 align="center">Full Stack Maverick: Transforming Ideas into Functional Realities</h2>
 
 - 🔭 I’m currently studing on [SoyHenry´s Bootcamp](https://www.soyhenry.com/)
 
@@ -16,7 +18,7 @@
 
 - 📫 How to reach me **If my profile resonates with your project, feel free to reach out to me at m.gutierrez7@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arlexmauriciogutierreztrejos/](https://www.linkedin.com/in/arlexmauriciogutierreztrejos/)
+- 📄 Know about my experiences [Click Here](https://www.linkedin.com/in/arlexmauriciogutierreztrejos/)
 
 - ⚡ Quirky Detail: **I've mastered the art of coding with one hand while holding a cup of coffee in the other – the secret to balancing productivity and caffeine intake!**
 
