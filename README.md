@@ -8,7 +8,7 @@
 <h4 align="left">💼 Presently, I'm on the lookout for challenges and opportunities that fuel my daily growth. Eager to join a team that not only inspires but also propels me to surpass my limits, I'm ready to embrace the next phase of my professional evolution.</h4>
 
 <p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFuNW9meGs5bjdubTFleWF3d2Zwc3dlYmZ3MmgxdXpxc3Bsem1wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="hero" width="25%" /></p>
-<h2 align="center">Full Stack Maverick: Transforming Ideas into Functional Realities</h2>
+<h1 align="center">Full Stack Maverick: Transforming Ideas into Functional Realities</h1>
 
 - 🔭 I’m currently studing on [SoyHenry´s Bootcamp](https://www.soyhenry.com/)
 
